@@ -10,7 +10,7 @@
     <tr>
       <td>
         <ul>
-          <li>thoresonjd@gmail.com</li>
+          <li>Pateldevang673@gmail.com</li>
           <li><a href="./pages/links.md">Links</a></li>
         </ul>
       </td>

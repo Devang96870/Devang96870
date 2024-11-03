@@ -1,12 +1,12 @@
-[Back to main page](./README.md)
+[Back to main page](./../README.md)
 
 <h1 align="center">Education</h1>
 <table>
   <tr>
     <td width="80%">
-      <b>Master of Science in Applied data science</b> | Anticipated Jan 2023<br />
-      University of Essex - Englend, UK<br />
-     
+      <b>Master of Datascience</b> | Anticipated June 2023<br />
+      University of essex - United Kingdon<br />
+      GPA: 4.0<br />
     </td>
     <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
   </tr>
@@ -39,4 +39,4 @@
   </tr>
 </table>
 
-[Back to main page](./README.md)
+[Back to main page](./../README.md)

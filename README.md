@@ -11,7 +11,6 @@
       <td>
         <ul>
           <li>Pateldevang673@gmail.com</li>
-          <li><a href="./pages/links.md">Links</a></li>
         </ul>
       </td>
     </tr>

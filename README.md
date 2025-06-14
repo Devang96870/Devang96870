@@ -3,7 +3,7 @@
 **Senior Front-End Engineer**  
 **React | TypeScript | Next.js | Performance Optimization**  
 📍 Pune, India — 🌍 Available for Remote UK/Global Contracts  
-📧 pateldevang673@gmail.com | 🌐 [Portfolio Website](https://devangp.netlify.app)
+📧 pateldevang673@gmail.com | 🌐 [Portfolio Website](https://devangp.netlify.app) 
 
 ---
 
@@ -82,6 +82,16 @@ From leading front-end rebuilds to mentoring engineers and collaborating with gl
 
 - Microsoft Azure Fundamentals
 - React Performance Optimization – Udemy
+
+---
+
+
+## 📁 Recent Projects
+
+- 🔗 [Invoice Data Table App (React + TypeScript)](https://invoice-datatable.netlify.app)
+- 🔗 [Dev Portfolio Site](https://devangp.netlify.app)
+- 🔗 [Marine Pollution Tracker (D3.js + React)](https://github.com/devangpatel673/marine-pollution-tracker)
+- 🔗 [Just Mortgages CRM (Private Repo / Demo on Request)](mailto:pateldevang673@gmail.com?subject=Requesting%20CRM%20Demo)
 
 ---
 

@@ -88,9 +88,8 @@ From leading front-end rebuilds to mentoring engineers and collaborating with gl
 
 ## 📁 Recent Projects
 
-- 🔗 [Invoice Data Table App (React + TypeScript)](https://invoice-datatable.netlify.app)
+- 🔗 [Invoice Data Table App (React + TypeScript)](https://reusablevitetable.netlify.app/)
 - 🔗 [Dev Portfolio Site](https://devangp.netlify.app)
-- 🔗 [Marine Pollution Tracker (D3.js + React)](https://github.com/devangpatel673/marine-pollution-tracker)
 - 🔗 [Just Mortgages CRM (Private Repo / Demo on Request)](mailto:pateldevang673@gmail.com?subject=Requesting%20CRM%20Demo)
 
 ---

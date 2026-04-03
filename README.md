@@ -1,6 +1,6 @@
 # 👋 About Me – Devang Patel
 
-**Senior Front-End Engineer**  
+**Senior Software Engineer**  
 **React | TypeScript | Next.js | Performance Optimization**  
 📍 Pune, India — 🌍 Available for Remote UK/Global Contracts  
 📧 pateldevang673@gmail.com | 🌐 [Portfolio Website](https://devangp.netlify.app) 
